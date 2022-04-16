@@ -1,0 +1,1 @@
+const t={key:"v-fb0f0066",path:"/guide/getting-started.html",title:"",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1622273228e3,contributors:[{name:"STZG",email:"1600337300@qq.com",commits:1}]},filePathRelative:"guide/getting-started.md"};export{t as data};
